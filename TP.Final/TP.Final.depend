@@ -1,0 +1,86 @@
+# depslib dependency file v1.0
+1698462055 source:c:\users\mllov\downloads\unla\ejerciciosprogram\tp.final\jugador.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<unistd.h>
+	<time.h>
+	"lista.h"
+	"Jugador.h"
+	"Pregunta.h"
+	"Respuesta.h"
+
+1698516039 source:c:\users\mllov\downloads\unla\ejerciciosprogram\tp.final\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<unistd.h>
+	<time.h>
+	"Jugador.h"
+	"Juego.h"
+	"Pregunta.h"
+
+1698462227 source:c:\users\mllov\downloads\unla\ejerciciosprogram\tp.final\pregunta.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Pregunta.h"
+	"Respuesta.h"
+
+1698438650 source:c:\users\mllov\downloads\unla\ejerciciosprogram\tp.final\puntos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Puntos.h"
+
+1698515977 source:c:\users\mllov\downloads\unla\ejerciciosprogram\tp.final\juego.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<unistd.h>
+	"Juego.h"
+	"Jugador.h"
+	"Pregunta.h"
+	"JugadoresAnteriores.h"
+
+1698438908 source:c:\users\mllov\downloads\unla\ejerciciosprogram\tp.final\respuesta.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Respuesta.h"
+
+1698441557 c:\users\mllov\downloads\unla\ejerciciosprogram\tp.final\juego.h
+	"lista.h"
+	"Jugador.h"
+	"Puntos.h"
+	"JugadoresAnteriores.h"
+
+1698438002 c:\users\mllov\downloads\unla\ejerciciosprogram\tp.final\jugador.h
+	"lista.h"
+	"Pregunta.h"
+	"Puntos.h"
+
+1698438650 c:\users\mllov\downloads\unla\ejerciciosprogram\tp.final\pregunta.h
+	"Respuesta.h"
+	"lista.h"
+
+1698438890 c:\users\mllov\downloads\unla\ejerciciosprogram\tp.final\respuesta.h
+
+1698438525 c:\users\mllov\downloads\unla\ejerciciosprogram\tp.final\puntos.h
+
+1696963799 source:c:\users\mllov\downloads\unla\ejerciciosprogram\tp.final\lista.c
+	"lista.h"
+	<stdlib.h>
+	<string.h>
+
+1698360113 c:\users\mllov\downloads\unla\ejerciciosprogram\tp.final\lista.h
+
+1698437531 c:\users\mllov\downloads\unla\ejerciciosprogram\tp.final\jugadoresanteriores.h
+	"lista.h"
+
+1698435132 source:c:\users\mllov\downloads\unla\ejerciciosprogram\tp.final\jugadoresanteriores.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"JugadoresAnteriores.h"
+

@@ -1,0 +1,224 @@
+1,Francisco de Goya,1,0
+2,Diego Velazquez,1,1
+3,Salvador Dali,1,0
+4,Pablo Picasso,1,0
+1,Viena,2,0
+2,Praga,2,0
+3,Estambul,2,0
+4,Budapest,2,1
+1,206,3,1
+2,222,3,0
+3,178,3,0
+4,45,3,0
+1,Tallo cerebral,4,1
+2,Intestino delgado,4,0
+3,Faringe,4,0
+4,Higado,4,0
+1,Rio Amazonas,5,1
+2,Rio Nilo,5,0
+3,Rio Mississippi,5,0
+4,Rio Danubio,5,0
+1,Barcelona,6,0
+2,Cuernavaca,6,0
+3,Zampango,6,0
+4,Lima,6,1
+1,23,7,0
+2,8,7,1
+3,9,7,0
+4,11,7,0
+1,Sao Paulo,8,0
+2,Brasilia,8,1
+3,Rio de Janeiro,8,0
+4,Manaus,8,0
+1,5,9,1
+2,6,9,0
+3,3,9,0
+4,8,9,0
+1,China,10,0
+2,Rusia,10,1
+3,Canada,10,0
+4,Argentina,10,0
+1,Gabriel García Márquez,11,1
+2,Pablo Neruda,11,0
+3,Julio Cortázar,11,0
+4,Mario Vargas Llosa,11,0
+1,Au,12,1
+2,Ag,12,0
+3,Fe,12,0
+4,Cu,12,0
+1,Paris,13,1
+2,Madrid,13,0
+3,Roma,13,0
+4,Londres,13,0
+1,George Washington,14,1
+2,Thomas Jefferson,14,0
+3,Abraham Lincoln,14,0
+4,John Adams,14,0
+1,Jupiter,15,1
+2,Mercurio,15,0
+3,Tierra,15,0
+4,Neptuno,15,0
+1,Mercurio,16,1
+2,Venus,16,0
+3,Tierra,16,0
+4,Marte,16,0
+1,Gabriel Garcia Marquez,17,0
+2,Leo Tolstoy,17,0
+3,Miguel de Cervantes,17,1
+4,William Shakespeare,17,0
+1,Rio Amazonas,18,1
+2,Rio Nilo,18,0
+3,Rio Misisipi,18,0
+4,Rio Yangtse,18,0
+1,O,19,1
+2,OX,19,0
+3,O2,19,0
+4,Oxigeno,19,0
+1,Pablo Picasso,20,0
+2,Vincent van Gogh,20,0
+3,Leonardo da Vinci,20,1
+4,Claude Monet,20,0
+1,1776,21,1
+2,1789,21,0
+3,1804,21,0
+4,1865,21,0
+1,Nitrogeno,22,1
+2,Oxigeno,22,0
+3,Dioxido de carbono,22,0
+4,Argon,22,0
+1,Albert Camus,23,0
+2,George Orwell,23,0
+3,Antoine de Saint-Exupery,23,1
+4,Leo Tolstoy,23,0
+1,Helio,24,0
+2,Hidrogeno,24,1
+3,Hierro,24,0
+4,Holmio,24,0
+1,Africa,25,1
+2,Asia,25,0
+3,Europa,25,0
+4,America,25,0
+1,Charles Dickens,26,0
+2,William Shakespeare,26,1
+3,Emily Bronte,26,0
+4,Jane Austen,26,0
+1,Hierro,27,0
+2,Oro,27,0
+3,Platino,27,0
+4,Plutonio,27,1
+1,Neil Armstrong,28,0
+2,Alan Shepard,28,0
+3,Yuri Gagarin,28,1
+4,John Glenn,28,0
+1,Montreal,29,0
+2,Toronto,29,0
+3,Ottawa,29,1
+4,Vancouver,29,0
+1,Oceano Atlantico,30,0
+2,Oceano Indico,30,0
+3,Oceano Pacifico,30,0
+4,Oceano Profundo,30,1
+1,George Washington,31,0
+2,Thomas Jefferson,31,0
+3,Abraham Lincoln,31,1
+4,Andrew Johnson,31,0
+1,Mercurio,32,0
+2,Venus,32,0
+3,Marte,32,1
+4,Jupiter,32,0
+1,Italia,33,0
+2,Espana,33,0
+3,Francia,33,1
+4,Reino Unido,33,0
+1,Ciudad de Mexico,34,1
+2,Guadalajara,34,0
+3,Monterrey,34,0
+4,Puebla,34,0
+1,George Orwell,35,1
+2,Aldous Huxley,35,0
+3,Ray Bradbury,35,0
+4,Philip K. Dick,35,0
+1,O,36,0
+2,CO,36,0
+3,C,36,1
+4,CA,36,0
+1,Ernesto "Che" Guevara,37,0
+2,Rafael Trujillo,37,0
+3,Fidel Castro,37,1
+4,Anastasio Somoza,37,0
+1,Monte Kilimanjaro,38,0
+2,Monte Aconcagua,38,0
+3,Monte Everest,38,1
+4,Monte McKinley,38,0
+1,Nitrogeno,39,0
+2,Sodio,39,1
+3,Neodimio,39,0
+4,Niobio,39,0
+1,Asia,40,0
+2,Africa,40,0
+3,Oceania,40,1
+4,Europa,40,0
+1,William Wordsworth,41,0
+2,Edgar Allan Poe,41,0
+3,William Shakespeare,41,1
+4,John Keats,41,0
+1,Fotosintesis,42,1
+2,Respiracion,42,0
+3,Fermentacion,42,0
+4,Transpiracion,42,0
+1,Rio Amazonas,43,1
+2,Rio Orinoco,43,0
+3,Rio Parana,43,0
+4,Rio Magdalena,43,0
+1,Thomas Edison,44,0
+2,Alan Turing,44,1
+3,Steve Jobs,44,0
+4,Bill Gates,44,0
+1,Mg,45,1
+2,Mn,45,0
+3,Mc,45,0
+4,Mi,45,0
+1,Alemania,46,0
+2,Rusia,46,0
+3,Polonia,46,1
+4,Ucrania,46,0
+1,Fusion,47,0
+2,Sublimacion,47,1
+3,Condensacion,47,0
+4,Vaporizacion,47,0
+1,Aurora,48,0
+2,Atmosfera,48,0
+3,Exosfera,48,0
+4,Espacio,48,1
+1,Fotosintesis,49,0
+2,Respiracion,49,1
+3,Digestion,49,0
+4,Transpiracion,49,0
+1,Ecuador,50,1
+2,Meridiano de Greenwich,50,0
+3,Tropico de Cancer,50,0
+4,Trópico de Capricornio,50,0
+1,Plata,51,0
+2,Fósforo,51,1
+3,Plomo,51,0
+4,Potasio,51,0
+1,Grecia,52,0
+2,Rusia,52,0
+3,Turquía,52,1
+4,Egipto,52,0
+1,Johannesburgo,53,0
+2,Pretoria,53,0
+3,Ciudad del Cabo,53,0
+4,Pretoria,53,1
+1,Pablo Picasso,54,0
+2,Vincent van Gogh,54,1
+3,Leonardo da Vinci,54,0
+4,Salvador Dalí,54,0
+1,Oxígeno,55,0
+2,Dióxido de carbono,55,1
+3,Nitrógeno,55,0
+4,Helio,55,0
+1,Alemania,56,0
+2,Austria,56,1
+3,Italia,56,0
+4,Hungría,56,0

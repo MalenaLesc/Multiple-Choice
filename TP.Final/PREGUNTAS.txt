@@ -1,0 +1,56 @@
+1,Quien pinto Las meninas?,5
+2,Cual es la capital de Hungria?,5
+3,Cuantos huesos tiene el cuerpo humano?,10
+4,Donde esta ubicado el MESENCEFALO?,10
+5,Cual es el rio más largo del mundo?,5 
+6,La capital de Peru es?,5
+7,Cuantos planetas hay en el sistema solar?,5
+8,La capital de Brasil es?,5
+9,Cuantos continentes hay?,5
+10,Cual es el pais mas extenso territorialmente?,10
+11,Quien escribio "Cien años de soledad"?,10
+12,Cual es el simbolo quimico del oro?,5
+13,Cual es la capital de Francia?,5
+14,Quien fue el primer presidente de los Estados Unidos?,5
+15,Cual es el planeta más grande del sistema solar?,5
+16,Cual es el planeta mas cercano al Sol?,5
+17,Quien escribio la obra "Don Quijote de la Mancha"?,10
+18,Cual es el rio más largo del mundo?,5
+19,Cual es el simbolo quimico del oxigeno?,5
+20,Quien pinto la "Mona Lisa"?,10
+21,En que año se firmo la Declaracion de Independencia de los Estados Unidos?,10
+22,Cual es el gas mas abundante en la atmosfera de la Tierra?,5
+23,Quien escribio "El Principito"?,5
+24,Cual es el elemento quimico con simbolo "H"?,5
+25,En que continente se encuentra Egipto?,5
+26,Quien es el autor de la obra "Romeo y Julieta"?,10
+27,Cual es el metal mas pesado de la tabla periodica?,5
+28,Quien fue el primer ser humano en viajar al espacio exterior?,10
+29,Cual es la capital de Canada?,5
+30,Cual es el oceano mas profundo del mundo?,5
+31,Quien fue el presidente de los Estados Unidos durante la Guerra Civil estadounidense?,10
+32,Que planeta es conocido como el "Planeta Rojo"?,5
+33,En que pais se encuentra la Torre Eiffel?,5
+34,Cual es la capital de Mexico?,5
+35,Quien es el autor de "1984"?,10
+36,Cual es el simbolo quimico del carbono?,5
+37,Quien fue el lider de la Revolucion Cubana?,5
+38,Cual es el monte mas alto del mundo?,10
+39,Que elemento quimico es conocido como "Na"?,5
+40,En que continente se encuentra Australia?,5
+41,Quien escribio "Hamlet"?,10
+42,Cual es el proceso mediante el cual las plantas convierten la luz solar en energia?,10
+43,Cual es el rio mas largo de America del Sur?,5
+44,Quien es conocido como "el padre de la computacion"?,10
+45,Cual es el simbolo quimico del magnesio?,5
+46,En que pais se encuentra la ciudad de Varsovia?,5
+47,Como se llama el proceso de cambio de un solido a gas sin pasar por el estado liquido?,5
+48,Como se llama el espacio entre la Tierra y la Luna?,5
+49,Cual es el proceso mediante el cual los seres humanos obtienen energia de los alimentos?,5
+50,Como se llama la linea imaginaria que divide la Tierra en hemisferio norte y hemisferio sur?,10
+51,¿Cuál es el elemento químico con símbolo "P"?,5
+52,¿En qué país se encuentra la ciudad de Estambul?,5
+53,¿Cuál es la capital de Sudáfrica?,5
+54,¿Quién pintó "La Noche Estrellada"?,10
+55,¿Cuál es el gas que las plantas absorben de la atmósfera para llevar a cabo la fotosíntesis?,5
+56,¿En qué país se encuentra el río Danubio?,5
